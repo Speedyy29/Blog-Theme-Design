@@ -1,3 +1,5 @@
+<img width="895" alt="Screenshot 2023-12-07 000505" src="https://github.com/Speedyy29/Blog-Theme-Design/assets/126769340/cf97247d-8f61-45c8-949d-c3bbab874ea7">
+
 ## 📄 Blog Theme Design
 
 This repository contains code for an original blog theme design created with HTML and CSS. This theme is clean, visually appealing, and fully responsive, designed for a seamless user experience.
